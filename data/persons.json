@@ -1,0 +1,30 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "123-456-7890",
+    "birthdate": "1990-01-01",
+    "id": 1
+  },
+  {
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "phone": "987-654-3210",
+    "birthdate": "1991-02-02",
+    "id": 2
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "phone": "555-555-5555",
+    "birthdate": "1989-03-03",
+    "id": 3
+  },
+   {
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "phone": "123-456-1324",
+    "birthdate": "1989-03-03",
+    "id": 4
+  }
+]
